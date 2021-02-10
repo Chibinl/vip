@@ -1,11 +1,11 @@
 /*
 看漫画极速版 unlock vip, currently off the shelf
-From HoGer
+From Chipun
 QX:
-^https?:\/\/getuserinfo\.321mh\.com\/app_api\/v5\/getuserinfo\/ url script-response-body https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/kmh.js
+^https?:\/\/getuserinfo\.321mh\.com\/app_api\/v5\/getuserinfo\/ url script-response-body https://raw.githubusercontent.com/Chibinl/vip/main/shuju/kmh.js
 
 Surge4：
-http-response ^https?:\/\/getuserinfo\.321mh\.com\/app_api\/v5\/getuserinfo\/ requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/kmh.js
+http-response ^https?:\/\/getuserinfo\.321mh\.com\/app_api\/v5\/getuserinfo\/ requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/Chibinl/vip/main/shuju/kmh.js
 
 Surge & QX MITM = getuserinfo.321mh.com
 */

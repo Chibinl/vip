@@ -1,5 +1,5 @@
 /*
-抖音去广告, 去水印. 改自https://github.com/Choler/Surge/blob/master/Script/douyin.js
+抖音去广告, 去水印. 改自 Chipun
 
 ***************************
 Surge 4.2+ :

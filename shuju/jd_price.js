@@ -1,5 +1,5 @@
 /*
-README：https://github.com/yichahucha/surge/tree/master
+README：Chipun
  */
 
 const path1 = "serverConfig";

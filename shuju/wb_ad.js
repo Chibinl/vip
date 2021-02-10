@@ -1,5 +1,5 @@
 /*
-README：https://github.com/yichahucha/surge/tree/master
+感谢：Chipun 
  */
 
 const path1 = "/groups/timeline";
